@@ -2,7 +2,7 @@
 
 Unified repository for osteoporosis risk work, combining:
 
-- `app/`: Streamlit prediction app with trained model
+- `app/`:  prediction app with trained model
 - `analysis/`: NHANES data analysis and modeling assets
 
 Source repositories merged:
