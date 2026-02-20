@@ -1,4 +1,4 @@
-EXAMPLE_DATA_FILE = "../analysis/data/cleaned_survey.csv"
+EXAMPLE_DATA_FILE = "data/example_data_cleaned.csv"
 EXAMPLE_MEAN_STD_FILE = "data/example_data_preprocessed_mean_std.csv"
 MODEL_PICKLE = "model/ann_clf.pkl"
 CSS_FILE = "css/style.css"
